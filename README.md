@@ -100,6 +100,7 @@ DC_RichPresence/
 ```
 Pseudo | 32/64 | 120 FPS
 ```
+<img width="328" height="215" alt="Capture d&#39;écran 2026-02-23 170750" src="https://github.com/user-attachments/assets/b1c0b620-dea1-42fe-a331-a3b608523a03" />
 
 ---
 
